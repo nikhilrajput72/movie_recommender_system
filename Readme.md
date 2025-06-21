@@ -33,5 +33,5 @@ The application provides:
 | YouTube Data API | Fetch YouTube trailer links              |
 | HTML/CSS         | Custom styling and layout                |
 
-## Project Structure
+
 
